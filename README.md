@@ -1,9 +1,7 @@
 # 👨‍💻 About Me
 
 I'm a student passionate about nueral network. I enjoy building forecasting models. Currently learning LLM and exploring web development.
-<p align="center">
-  <img src="https://lottiefiles.com/free-animation/typing-dots-animation-AERnC5UH4g" width="200" />
-</p>
+![Metrics](https://raw.githubusercontent.com/GhalibFaruqe101/GhalibFaruqe101/main/github-metrics.svg)
 
 ## 🛠️ Tech Stack
 ### Languages
