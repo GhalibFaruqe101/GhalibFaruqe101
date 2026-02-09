@@ -1,6 +1,9 @@
 # 👨‍💻 About Me
 
 I'm a student passionate about nueral network. I enjoy building forecasting models. Currently learning LLM and exploring web development.
+<p align="center">
+  <img src="https://lottiefiles.com/free-animation/typing-dots-animation-AERnC5UH4g" width="200" />
+</p>
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -35,3 +38,5 @@ I'm a student passionate about nueral network. I enjoy building forecasting mode
 - Email: ghalibfaruqe@duck.com
 - Portfolio: [ghalibfaruqe.github.io](https://ghalibfaruqe101.github.io/Ghalib-Faruqe/)
 - LinkedIn: [Ghalib Faruqe](https://linkedin.com/in/ghalibfaruqe)
+
+![](https://lottiefiles.com/free-animation/typing-dots-animation-AERnC5UH4g)
