@@ -29,6 +29,11 @@ jobs:
           user: GhalibFaruqe101 # ⬅️ 
           base: ""
           plugin_isocalendar: yes
+          plugin_isocalendar_colors: "f0abfc,d8b4fe,c084fc,a855f7,9333ea"
+          base_color: "000000"
+          icon_color: "00ff9d"
+          text_color: "00ff9d"
+          bg_color: "0a0a0f"
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_skipped: html, css # Example: skip markup languages
