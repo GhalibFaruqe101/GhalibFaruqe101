@@ -3,7 +3,6 @@
 I'm a student passionate about nueral network. I enjoy building forecasting models. Currently learning LLM and exploring web development.
 
 
-![Metrics](https://raw.githubusercontent.com/GhalibFaruqe101/GhalibFaruqe101/main/github-metrics.svg)
 
 ## 🛠️ Tech Stack
 ### Languages
