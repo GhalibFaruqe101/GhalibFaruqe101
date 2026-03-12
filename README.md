@@ -33,9 +33,28 @@ I'm a student passionate about nueral network. I enjoy building forecasting mode
 
 </div>
 
-## 📫 How to Reach Me
-- Email: ghalibfaruqe@duck.com
-- Portfolio: [ghalibfaruqe.github.io](https://ghalibfaruqe101.github.io/Ghalib-Faruqe/)
-- LinkedIn: [Ghalib Faruqe](https://linkedin.com/in/ghalibfaruqe)
 
-![](https://lottiefiles.com/free-animation/typing-dots-animation-AERnC5UH4g)
+## 📬 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=435&lines=Available+for+opportunities!;Open+to+collaborations!;Let's+build+something+amazing!)](https://git.io/typing-svg)
+
+</div>
+
+<!-- Interactive Contact Cards with Hover Effects -->
+<div align="center">
+  <a href="mailto:ghalibfaruqe@duck.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50&color=D14836" alt="Email" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://ghalibfaruqe101.github.io/Ghalib-Faruqe/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2C3E50&color=FF6B6B" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/ghalibfaruqe" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C3E50&color=0077B5" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/GhalibFaruqe101" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50&color=181717" alt="GitHub">
+  </a>
+</div>
+
